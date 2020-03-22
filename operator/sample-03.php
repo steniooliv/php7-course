@@ -1,6 +1,7 @@
 <?php
 
 //arithmetic operator
+
 $a = 10;
 $b = 2;
 
